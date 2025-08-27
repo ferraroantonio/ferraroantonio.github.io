@@ -27,9 +27,8 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
 <strong>Real Assets, Real Inequality: The Heterogeneous Impact of Inheritance on Wealth Mobility</strong> (working paper, 2025). 
 <div class="meta">HFCS panel data; absolute vs relative inequality; within- vs between-household effects.</div>
 <p style="margin-top:10px;">
-  <a class="btn" href="#">PDF</a>
-  <a class="btn" href="#">Slides</a>
-  <a class="btn" href="#">Replication</a>
+  <a class="btn" href="{{ '/assets/JMP_Ferraro.pdf' | relative_url }}">PDF</a>
+  <a class="btn" href="{{ '/assets/JMP_Ferraro_slides.pdf' | relative_url }}">Slides</a>
 </p>
 </div>
 </section>
