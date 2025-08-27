@@ -1,0 +1,6 @@
+title: "Antonio Ferraro"
+description: "PhD Candidate in Economics & Quantitative Methods — University of Genoa"
+url: "https://ferraroantonio.github.io"
+timezone: Europe/Rome
+markdown: kramdown
+exclude: [README.md]
