@@ -4,7 +4,7 @@ layout: default
 ---
 
 <section id="jmp" style="margin-top:22px;">
-<h2>Job Market Paper (highlight)</h2>
+<h2>Job Market Paper</h2>
 <div class="card">
 <strong>Real Assets, Real Inequality: The Heterogeneous Impact of Inheritance on Wealth Mobility</strong> (working paper, 2025). 
 <div class="meta">HFCS panel data; absolute vs relative inequality; within- vs between-household effects.</div>
