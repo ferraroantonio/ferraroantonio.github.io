@@ -13,20 +13,33 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
   <a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a>
   &nbsp; <a class="btn" href="{{ '/contact' | relative_url }}">Email / Contact</a>
 </p>
-<p class="meta">Research interests: household finance, intergenerational transfers, wealth inequality, applied microeconometrics.</p>
+<p class="meta">Research interests: Mathematical and Quantitative Methods; Personal Income, Wealth, and Their Distributions; Macroeconomics and Monetary Economics; International Economics; Public Economics; Household Finance.</p>
 </div>
 </section>
 
 <section id="jmp" style="margin-top:22px;">
 <h2>Job Market Paper (highlight)</h2>
 <div class="card">
-<strong>Inheritances, Gifts, and Household Wealth Mobility in the Eurozone</strong> (working paper, 2025). 
+<strong>Real Assets, Real Inequality: The Heterogeneous Impact of Inheritance on Wealth Mobility</strong> (working paper, 2025). 
 <div class="meta">HFCS panel data; absolute vs relative inequality; within- vs between-household effects.</div>
 <p style="margin-top:10px;">
   <a class="btn" href="#">PDF</a>
   <a class="btn" href="#">Slides</a>
   <a class="btn" href="#">Replication</a>
 </p>
+</div>
+</section>
+
+<section id="education" style="margin-top:22px;">
+<h2>Education</h2>
+<div class="card">
+<ul class="plain">
+  <li class="item"><strong>Ph.D. in Economics and Quantitative Methods — University of Genoa</strong> <span class="meta">2023 – present</span></li>
+  <li class="item"><strong>M.Sc. in Economics and Political Science — University of Milan</strong> <span class="meta">2018 – 2021 · 101/110</span></li>
+  <li class="item"><strong>B.Sc. in International Sciences, Development and Cooperation — University of Turin</strong> <span class="meta">2015 – 2018 · 106/110</span></li>
+  <li class="item"><strong>Erasmus+ — University of Hamburg</strong> <span class="meta">2017 – 2018</span></li>
+  <li class="item"><strong>Selected Summer Schools</strong> <span class="meta">BSE (Time Series Models, 2024); Italian Econometric Association (Macroeconomic Forecasting & ML, 2023); UPM (Explainable ML, 2023); UEA (Empirical IO, 2023); University of Zurich (Blockchain, 2020)</span></li>
+</ul>
 </div>
 </section>
 
@@ -53,15 +66,3 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
 </div>
 </section>
 
-<section id="education" style="margin-top:22px;">
-<h2>Education</h2>
-<div class="card">
-<ul class="plain">
-  <li class="item"><strong>Ph.D. in Economics and Quantitative Methods — University of Genoa</strong> <span class="meta">2023 – present</span></li>
-  <li class="item"><strong>M.Sc. in Economics and Political Science — University of Milan</strong> <span class="meta">2018 – 2021 · 101/110</span></li>
-  <li class="item"><strong>B.Sc. in International Sciences, Development and Cooperation — University of Turin</strong> <span class="meta">2015 – 2018 · 106/110</span></li>
-  <li class="item"><strong>Erasmus+ — University of Hamburg</strong> <span class="meta">2017 – 2018</span></li>
-  <li class="item"><strong>Selected Summer Schools</strong> <span class="meta">BSE (Time Series Models, 2024); Italian Econometric Association (Macroeconomic Forecasting & ML, 2023); UPM (Explainable ML, 2023); UEA (Empirical IO, 2023); University of Zurich (Blockchain, 2020)</span></li>
-</ul>
-</div>
-</section>
