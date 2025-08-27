@@ -1,6 +1,7 @@
 ---
 title: Education
 layout: default
+published: false
 ---
 
 <section>
