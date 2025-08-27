@@ -23,5 +23,4 @@ layout: default
   <!-- Add more items as needed -->
 </ul>
 </div>
-</section>
 
