@@ -1,0 +1,47 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>{% if page.title %}{{ page.title }} · {% endif %}Antonio Ferraro</title>
+  <meta name="description" content="{{ page.description | default: site.description }}">
+  <link rel="icon" href="data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='0.9em' font-size='90'>📊</text></svg>">
+  <link rel="stylesheet" href="{{ '/assets/style.css' | relative_url }}">
+  <link rel="canonical" href="{{ site.url }}{{ page.url }}">
+  {% if page.url == '/' %}
+  <script type="application/ld+json">
+  {
+    "@context": "https://schema.org",
+    "@type": "Person",
+    "name": "Antonio Ferraro",
+    "jobTitle": "PhD Candidate in Economics",
+    "affiliation": {"@type":"CollegeOrUniversity","name":"University of Genoa"},
+    "url": "https://ferraroantonio.github.io/",
+    "email": "mailto:antonioferraro039@gmail.com",
+    "sameAs": ["https://www.linkedin.com/in/antonioferraro1"]
+  }
+  </script>
+  {% endif %}
+</head>
+<body>
+  <a class="sr-only" href="#main">Skip to content</a>
+
+  <header class="wrap header">
+    <img class="avatar" src="{{ '/assets/antonio.jpg' | relative_url }}" alt="Portrait of Antonio Ferraro" loading="lazy">
+    <div>
+      <h1 class="title">Antonio Ferraro</h1>
+      <p class="subtitle">PhD Candidate in Economics & Quantitative Methods, University of Genoa · <span class="muted">Job market 2025–26</span></p>
+    </div>
+  </header>
+
+  {% include nav.html %}
+
+  <main id="main" class="wrap content">
+    {{ content }}
+  </main>
+
+  <footer class="wrap footer">
+    © {{ "now" | date: "%Y" }} Antonio Ferraro · Lightweight, fast, printable.
+  </footer>
+</body>
+</html>
