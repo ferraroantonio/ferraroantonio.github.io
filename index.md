@@ -48,7 +48,7 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
 </section>
 
 <section id="experience" style="margin-top:22px;">
-<h2>Experience</h2>
+<h2>Work Experience</h2>
 <div class="card">
 <ul class="plain">
   <li class="item">
