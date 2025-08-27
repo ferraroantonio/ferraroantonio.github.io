@@ -13,7 +13,12 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
   <a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a>
   &nbsp; <a class="btn" href="{{ '/contact' | relative_url }}">Email / Contact</a>
 </p>
-<p class="meta">Research interests: Mathematical and Quantitative Methods; Personal Income, Wealth, and Their Distributions; Macroeconomics and Monetary Economics; International Economics; Public Economics; Household Finance.</p>
+<p class="meta">Research fields: household finance, distribution of wealth, macroeconomics, international economics, public finance, demographic change, industrial organization, and development.</p>
+<details>
+  <summary>JEL codes</summary>
+  <p>C; D31; E; F; G51; H; J11; L; O5</p>
+</details>
+</p>
 </div>
 </section>
 
