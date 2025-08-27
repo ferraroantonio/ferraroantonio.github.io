@@ -7,7 +7,6 @@ layout: default
 <h2>Curriculum Vitae</h2>
 <div class="card">
 <p><a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a> <span class="meta">Last updated: Aug 2025</span></p>
-<p class="meta">Tip: printing any page (Ctrl/Cmd+P) gives a clean layout.</p>
 </div>
 
 <div style="margin-top:16px" class="card">
