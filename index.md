@@ -18,7 +18,6 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
   <summary>JEL codes</summary>
   <p>C; D31; E; F; G51; H; J11; L; O5</p>
 </details>
-</p>
 </div>
 </section>
 
