@@ -7,8 +7,8 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
 <section id="about">
 <h2>About me</h2>
 <div class="card">
-<p>I'm a third-year PhD student in Economics and Quantitative Methods at the <em>University of Genoa</em>. My job market paper examines the heterogeneous effects of inheritances on households’ net wealth mobility, using a Eurozone panel dataset (2010–2021). This research lies at the intersection of microeconometrics, wealth distribution, inequality, and intergenerational mobility.</p>
-<p>In addition, I spent the 2024/2025 academic year at <em>Zhejiang International Studies University</em> in Hangzhou, China. Under the supervision of Prof. Haoyong Zhou, I worked on the concept of productive borrowing in the context of household finance and applied microeconomics, as well as on an analysis of the investment behavior of family offices in startups.</p>
+<p>I'm a third-year PhD student in Economics and Quantitative Methods at the <em>University of Genoa</em>. My job market paper examines the heterogeneous effects of inheritances on households’ net wealth mobility, using a Eurozone panel dataset (2010–2021).</p>
+<p>During the 2024/2025 academic year, I was a visiting researcher at Zhejiang International Studies University in Hangzhou, China.</p>
 <p>
   <a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a>
   &nbsp; <a class="btn" href="{{ '/contact' | relative_url }}">Email / Contact</a>
