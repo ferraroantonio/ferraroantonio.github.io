@@ -7,7 +7,7 @@ layout: default
 <h2>Job Market Paper</h2>
 <div class="card">
 <strong>Real Assets, Real Inequality: The Heterogeneous Impact of Inheritance on Wealth Mobility</strong> (working paper, 2025). 
-<div class="meta">HFCS panel data; absolute vs relative inequality; within- vs between-household effects.</div>
+<div class="meta">HFCS panel data; wealth distribution; inequality; intergenerational transfers.</div>
 <p style="margin-top:10px;">
   <a class="btn" href="{{ '/assets/JMP_Ferraro.pdf' | relative_url }}">PDF</a>
   <a class="btn" href="{{ '/assets/JMP_Ferraro_slides.pdf' | relative_url }}">Slides</a>
