@@ -19,7 +19,7 @@ layout: default
 <div class="card">
 <ul class="plain">
   <li class="item"><strong>Beyond Consumption: Exploring Productive Borrowing in Household Finance</strong> (with Haoyong Zhou), 2025. <span class="meta">Working paper.</span></li>
-  <li class="item"><strong>From Selection to Exit: A Comparative Analysis of Family Office Dealmaking and Performance</strong> (with Emma Li and Haoyong Zhou), 2025. <span class="meta">Working paper.</span></li>
+  <li class="item"><strong>From Private Wealth to Patient Capital: Single Family Offices in Entrepreneurial Finance</strong> (with Emma Li and Haoyong Zhou), 2025. <span class="meta">Working paper.</span></li>
   <!-- Add more items as needed -->
 </ul>
 </div>
