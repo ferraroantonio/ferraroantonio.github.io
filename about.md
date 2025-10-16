@@ -1,8 +1,8 @@
 ---
-title: About me
+title: "About me"
 layout: default
+permalink: /about-me/
 description: "More about Antonio Ferraro — background, journey, and interests."
-permalink: /about/
 ---
 
 <section id="about-page">
