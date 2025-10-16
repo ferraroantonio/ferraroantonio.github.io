@@ -19,11 +19,9 @@ description: "More about Antonio Ferraro — background, research journey, and m
 <section id="values" style="margin-top:22px;">
   <h2>Values and Interests</h2>
   <div class="card">
-    <p>I am deeply curious and passionate about using hard data to address pressing societal challenges. I see research as a powerful tool to support decision-makers and improve outcomes for society. I believe in lifelong learning and view every project as an opportunity to grow—both personally and collectively.</p>
+    <p>I am deeply passionate about global social and economic challenges, and I see research as a powerful tool to support decision-makers and improve outcomes for society. I have always aspired to make a positive contribution to the world, which is why the possibility to work on impactful, real-world problems strongly motivates me. As a result, I approach each task with persistence and care. Hard work, productivity, and perseverance represent a trademark of my character.</p>
 
-    <p>The possibility to work on impactful, real-world problems strongly motivates me. I have always aspired to make a positive contribution to the world, and I approach each task with persistence and care. Hard work, productivity, and perseverance represent a trademark of my character.</p>
-
-    <p>I strive to bring out the best in others by listening carefully, asking questions, and helping whenever I can. I value collaboration and inclusion, but I’m equally comfortable working independently with initiative and determination. My international experience has strengthened my adaptability, organization, and intercultural communication skills, and I take pride in delivering high-quality work under pressure.</p>
+    <p>At the same time, I am an inclusive and collaborative person who strives to bring out the best in others, listening carefully, and helping whenever I can. I believe in the value of cooperation and I consider myself a strong team player.</p>
 
     <p>Outside research, I enjoy staying active—I work out daily and jog on weekends. I also love spending time outdoors, whether hiking or exploring new places. Music and books are constant companions, helping me unwind and keep perspective beyond academic life.</p>
   </div>
