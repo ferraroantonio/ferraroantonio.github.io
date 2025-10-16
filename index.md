@@ -5,7 +5,7 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
 ---
 
 <section id="about">
-<h2>Welcome</h2>
+<h2>Overview</h2>
 <div class="card">
 <p>I'm a finalist PhD student in Economics and Quantitative Methods at the <em>University of Genoa</em>. My job market paper examines the heterogeneous effects of the asset composition of inheritances on households’ wealth accumulation, using a Eurozone panel dataset (2010–2021).</p>
 <p>I am currently on the market for research positions involving quantitative analysis, applied microeconomics, and statistical tools.</p>
@@ -13,10 +13,10 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
   <a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a>
   &nbsp; <a class="btn" href="{{ '/contact' | relative_url }}">Email / Contact</a>
 </p>
-<p class="meta">Research interests: mathematical and quantitative methods, household finance, distribution of wealth, macroeconomics, international economics, public finance, applied microeconomics, industrial organization, and demographic change.</p>
+<p class="meta">Research interests: applied microeconomics, public finance, macroeconomics, household finance, distribution of wealth, international economics, and demographic change.</p>
 <details>
   <summary>JEL codes</summary>
-  <p>C; D31; E; F; G51; H; J11; L; O5</p>
+  <p>D31; E; F; G51; H; J11; O5</p>
 </details>
 </div>
 </section>
