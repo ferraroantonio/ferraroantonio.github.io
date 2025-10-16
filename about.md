@@ -16,19 +16,16 @@ description: "More about Antonio Ferraro — background, research journey, and m
   </div>
 </section>
 
-<section id="motivation" style="margin-top:22px;">
-  <h2>Motivation</h2>
-  <div class="card">
-    <p>Economic research is, for me, a daily source of purpose and intellectual energy. From the very beginning of my academic path, I felt that research was the right environment to channel my curiosity and desire to contribute to society. I am driven by the idea that data-driven insights can meaningfully inform public debate and policymaking. I view each challenge as an opportunity to grow, and I see research as a continuous learning process—one that pushes you to question assumptions and expand your knowledge.</p>
-
-    <p>I am motivated by projects with tangible social relevance, where rigorous analysis can help guide better outcomes for communities. My long-term goal is to contribute to policy-relevant research at the intersection of economics, inequality, and social welfare—areas where I believe careful quantitative work can make a genuine difference.</p>
-  </div>
-</section>
-
 <section id="values" style="margin-top:22px;">
-  <h2>European and International Perspective</h2>
+  <h2>Values and Interests</h2>
   <div class="card">
-    <p>I am a genuine supporter of the European project and its founding values of cooperation, inclusion, and respect for diversity. My background in international studies and my experiences across several European countries have strengthened my belief in collaboration beyond borders. I see diversity as a powerful driver of creativity and innovation in research. Working in multicultural teams has taught me the value of listening carefully, asking questions, and striving to bring out the best in others.</p>
+    <p>I am deeply curious and passionate about using hard data to address pressing societal challenges. I see research as a powerful tool to support decision-makers and improve outcomes for society. I believe in lifelong learning and view every project as an opportunity to grow—both personally and collectively.</p>
+
+    <p>The possibility to work on impactful, real-world problems strongly motivates me. I have always aspired to make a positive contribution to the world, and I approach each task with persistence and care. Hard work, productivity, and perseverance represent a trademark of my character.</p>
+
+    <p>I strive to bring out the best in others by listening carefully, asking questions, and helping whenever I can. I value collaboration and inclusion, but I’m equally comfortable working independently with initiative and determination. My international experience has strengthened my adaptability, organization, and intercultural communication skills, and I take pride in delivering high-quality work under pressure.</p>
+
+    <p>Outside research, I enjoy staying active—I work out daily and jog on weekends. I also love spending time outdoors, whether hiking or exploring new places. Music and books are constant companions, helping me unwind and keep perspective beyond academic life.</p>
   </div>
 </section>
 
