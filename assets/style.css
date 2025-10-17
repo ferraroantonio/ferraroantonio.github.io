@@ -56,6 +56,13 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
 .about-photo{ grid-area:image; }
 .about-photo img{ width:100%; height:auto; border-radius:12px; }
 
+.about-photo figcaption {
+  text-align: center;
+  margin-top: 6px;
+  font-size: 0.9rem;
+  color: var(--muted);
+}
+
 /* The block that spans across both columns */
 .about-text-wide{ grid-area:full; }
 
