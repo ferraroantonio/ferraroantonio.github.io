@@ -51,7 +51,8 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
   <li class="item"><strong>Exchange Program — University of Hamburg</strong> <span class="meta">2017 – 2018</span></li>
   <li class="item"><strong>Selected Summer Schools</strong> <span class="meta">Barcelona School of Economics (Time Series Models, 2024); Italian Econometric Association (Macroeconomic Forecasting & ML, 2023); Universidad Politécnica de Madrid (Explainable ML, 2023); University of East Anglia (Empirical Industrial Organization, 2023); University of Zurich (Blockchain, 2020)</span></li>
 </ul>
-</div>
+ <p class="meta" style="margin-top:10px;">Languages: English (fluent), Italian (native), German (C1 TestDaF), French (Intermediate)</p>
+  </div>
 </section>
 
 <p style="margin-top:10px;">
