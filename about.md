@@ -12,7 +12,7 @@ description: "More about Antonio Ferraro — background, research journey, and m
 
     <p>Before starting my doctoral journey, I worked as an analyst for consulting and technology firms in Dublin and Rome. Beyond the precious technical skills I acquired, these experiences taught me the immeasurable value of collaboration in achieving common goals. I consider myself a reliable team player who strives to bring out the best in others. At the same time, I am capable of carrying out independent research, paying close attention to detail with enthusiasm and determination.</p>
 
-    <p>My greatest motivation is to leave the world a little better than I found it, and I see research as a powerful tool to improve societal outcomes. I am deeply passionate about global social and economic issues, and the possibility of working on impactful, real-world projects is a prospect that strongly motivates me. Hard work, productivity, and perseverance are trademarks of my character.</p>
+    <p>My greatest motivation is to leave the world a little better than I found it, and I see research as a powerful tool to achieve better outcomes for society. I am deeply passionate about global social and economic issues, and the possibility of working on impactful, real-world projects is a prospect that strongly motivates me. Hard work, productivity, and perseverance are trademarks of my character.</p>
 
     <p>Outside research, I practice sports daily and maintain a healthy lifestyle. I enjoy hiking and long walks outdoors — my favorite way to unwind and reconnect with nature. I am an avid reader of classic novels, and music and new acquaintances are what warm my heart the most. I hope our paths will cross one day!”</p>
   </div>
