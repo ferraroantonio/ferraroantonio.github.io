@@ -12,7 +12,7 @@ description: "More about Antonio Ferraro — background, research journey, and m
 
     <p>Before starting my doctoral studies, I worked as an analyst for consulting and technology firms in Dublin and Rome. The experiences gave me a practical, data-driven mindset that I bring to my academic work.</p>
 
-    <p>I hold an <strong>M.Sc. in Economics and Political Science<strong> from the University of Milan, where I first became passionate about causal analysis and impact evaluation methods. I also earned a <strong>B.Sc. in International Sciences, Development and Cooperation<strong> from the University of Turin, which deepened my understanding of the socio-political and economic forces shaping today’s global society. During my undergraduate studies, I spent a semester at the <em>University of Hamburg</em> through the Erasmus+ Program, strengthening my German skills—a language that I’ve learned while living in Berlin and for which I hold a C1 TestDaF certificate.</p>
+    <p>I hold an M.Sc. in Economics and Political Science from the University of Milan, where I first became passionate about causal analysis and impact evaluation methods. I also earned a B.Sc. in International Sciences, Development and Cooperation from the University of Turin, which deepened my understanding of the socio-political and economic forces shaping today’s global society. During my undergraduate studies, I spent a semester at the <em>University of Hamburg</em> through the Erasmus+ Program, strengthening my German skills—a language that I’ve learned while living in Berlin and for which I hold a C1 TestDaF certificate.</p>
   </div>
 </section>
 
