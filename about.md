@@ -18,6 +18,7 @@ description: "More about Antonio Ferraro — background, research journey, and m
       <!-- Photo on the right (desktop), first (mobile) -->
       <figure class="about-photo">
         <img src="{{ '/assets/antonio_shanghai.jpg' | relative_url }}" alt="Antonio Ferraro in Shanghai">
+        <figcaption>Shanghai, 2024</figcaption>
       </figure>
 
       <!-- Full-width text below the photo (p3–p4) -->
