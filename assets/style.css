@@ -33,22 +33,30 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
 /* About page layout */
 .about-grid{
   display:grid;
-  grid-template-columns: 1.3fr 1fr;     /* text wider, image column same size as your first attempt */
-  grid-template-areas: "text image";    /* image on the RIGHT on desktop */
+  grid-template-columns: 1.3fr 1fr;         /* text wider, image on the right */
+  grid-template-areas:
+    "text image"                            /* row 1: text + image side-by-side */
+    "full full";                            /* row 2: full-width content */
   gap:18px;
   align-items:start;
 }
+
 .about-text{ grid-area:text; }
 .about-photo{ grid-area:image; }
 .about-photo img{ width:100%; height:auto; border-radius:12px; }
 
-/* Mobile: stack with IMAGE FIRST (on top) */
+/* The block that spans across both columns */
+.about-text-wide{ grid-area:full; }
+
+/* Mobile: stack image first, then text, then full-width part */
 @media (max-width: 720px){
   .about-grid{
     grid-template-columns: 1fr;
     grid-template-areas:
       "image"
-      "text";
+      "text"
+      "full";
   }
 }
+
 
