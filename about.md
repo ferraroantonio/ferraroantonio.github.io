@@ -8,7 +8,7 @@ description: "More about Antonio Ferraro — background, research journey, and m
 <section id="about-full">
   <h2>About me</h2>
   <div class="card">
-    <p>I am a final year Ph.D. candidate in Economics and Quantitative Methods at the <em>University of Genoa</em>. My research revolves around applied microeconomics and quantitative analysis, with a particular interest in public finance, macroeconomics, international economics, household finance, and demographic change. During the second year of my Ph.D. studies I was a Visiting Researcher at <em>Zhejiang International Studies University</em> in Hangzhou, China, where I developed projects on productive borrowing and on the role of single family offices in entrepreneurial finance.</p>
+    <p>I am in the final stage of the Ph.D. in Economics and Quantitative Methods at the <em>University of Genoa</em>.  My research combines microeconometric tools with rich European panel data to study household finance and wealth accumulation. I spent the second year of my Ph.D. as a Visiting Researcher at <em>Zhejiang International Studies University</em> in Hangzhou, China, where I developed projects on productive borrowing and on the role of single family offices in entrepreneurial finance.</p>
 
     <p>Before starting my doctoral journey, I worked as an analyst for consulting and technology firms in Dublin and Rome. The experiences gave me a practical, data-driven mindset that I bring to my academic work.</p>
 
