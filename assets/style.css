@@ -47,9 +47,9 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
   padding-top: 0;           /* ensures consistent spacing */
 }
 
-.about-grid {
-  row-gap: 0;               /* eliminates grid row spacing */
-  gap: 18px 18px;           /* only keeps column gap */
+.about-grid { 
+  row-gap: 0;
+  column-gap: 18px;   /* not 'gap:' */
 }
 
 .about-text{ grid-area:text; }
@@ -58,6 +58,8 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
 
 /* The block that spans across both columns */
 .about-text-wide{ grid-area:full; }
+
+.about-text-wide > p:first-child { margin-top: 0; }
 
 /* Mobile: stack image first, then text, then full-width part */
 @media (max-width: 720px){
