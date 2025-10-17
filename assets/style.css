@@ -29,3 +29,26 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
   .site-nav,.btn{display:none!important}
   body{background:#fff;color:#000}.card{border:0;box-shadow:none;padding:0}.wrap{padding:0}
 }
+
+/* About page layout */
+.about-grid{
+  display:grid;
+  grid-template-columns: 1.3fr 1fr;     /* text wider, image column same size as your first attempt */
+  grid-template-areas: "text image";    /* image on the RIGHT on desktop */
+  gap:18px;
+  align-items:start;
+}
+.about-text{ grid-area:text; }
+.about-photo{ grid-area:image; }
+.about-photo img{ width:100%; height:auto; border-radius:12px; }
+
+/* Mobile: stack with IMAGE FIRST (on top) */
+@media (max-width: 720px){
+  .about-grid{
+    grid-template-columns: 1fr;
+    grid-template-areas:
+      "image"
+      "text";
+  }
+}
+
