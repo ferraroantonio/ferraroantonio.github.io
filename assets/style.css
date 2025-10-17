@@ -41,6 +41,17 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
   align-items:start;
 }
 
+/* Reduce spacing between top grid row and full-width text */
+.about-text-wide {
+  margin-top: 0;            /* remove extra margin */
+  padding-top: 0;           /* ensures consistent spacing */
+}
+
+.about-grid {
+  row-gap: 0;               /* eliminates grid row spacing */
+  gap: 18px 18px;           /* only keeps column gap */
+}
+
 .about-text{ grid-area:text; }
 .about-photo{ grid-area:image; }
 .about-photo img{ width:100%; height:auto; border-radius:12px; }
