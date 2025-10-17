@@ -55,5 +55,5 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
 </section>
 
 <p style="margin-top:10px;">
-  <a href="{{ '/about/' | relative_url }}">Read more about me →</a>
+  <a href="{{ '/about-me/' | relative_url }}">Read more about me →</a>
 </p>
