@@ -33,18 +33,19 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
 /* About page layout */
 .about-grid{
   display:grid;
-  grid-template-columns: 1.5fr 0.7fr;
+  grid-template-columns: 1.4fr 0.8fr;   /* image column narrower */
   grid-template-areas: "text image";
   gap:18px;
   align-items:start;
 }
 .about-photo img{
-  width:85%;
+  width:90%;                            /* reduce actual image width inside its column */
   height:auto;
   border-radius:12px;
   margin:auto;
   display:block;
 }
+
 .about-text{ grid-area:text; }
 .about-photo{ grid-area:image; }
 .about-photo img{ width:100%; height:auto; border-radius:12px; }
