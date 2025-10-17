@@ -6,7 +6,7 @@ layout: default
 <section>
 <h2>Curriculum Vitae</h2>
 <div class="card">
-<p><a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a> <span class="meta">Last updated: Aug 2025</span></p>
+<p><a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a> <span class="meta">Last updated: Oct 2025</span></p>
 </div>
 
 <div style="margin-top:16px" class="card">
