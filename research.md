@@ -20,6 +20,7 @@ layout: default
   <li class="item">
     <strong>Beyond Consumption: Exploring Productive Borrowing in Household Finance</strong>
     (with Haoyong Zhou), 2025. <span class="meta">Working paper.</span>
+    <div class="meta">household production; household economics; intertemporal consumer choice; income; wealth; consumer lending.</div>
     <p style="margin-top:8px;">
       <a class="btn" href="{{ '/assets/WP_ProductiveBorrowing.pdf' | relative_url }}">PDF</a>
     </p>
