@@ -14,13 +14,32 @@ layout: default
 </p>
 </div>
 </section>
-
 <h2 style="margin-top:20px;">Working papers</h2>
+
 <div class="card">
-<ul class="plain">
-  <li class="item"><strong>Beyond Consumption: Exploring Productive Borrowing in Household Finance</strong> (with Haoyong Zhou), 2025. <span class="meta">Working paper.</span></li>
-  <li class="item"><strong>From Private Wealth to Patient Capital: Single Family Offices in Entrepreneurial Finance</strong> (with Emma Li and Haoyong Zhou), 2025. <span class="meta">Working paper.</span></li>
-  <!-- Add more items as needed -->
-</ul>
+  <ul class="plain">
+
+    <li class="item">
+      <strong>Beyond Consumption: Exploring Productive Borrowing in Household Finance</strong>
+      (with Haoyong Zhou), 2025. <span class="meta">Working paper.</span>
+
+      <p style="margin-top:10px;">
+        <a class="btn" href="{{ '/assets/BeyondConsumption.pdf' | relative_url }}">PDF</a>
+      </p>
+    </li>
+
+    <li class="item">
+      <strong>From Private Wealth to Patient Capital: Single Family Offices in Entrepreneurial Finance</strong>
+      (with Emma Li and Haoyong Zhou), 2025. <span class="meta">Working paper.</span>
+
+      <p style="margin-top:10px;">
+        <a class="btn" href="{{ '/assets/FamilyOffices.pdf' | relative_url }}">PDF</a>
+      </p>
+    </li>
+
+    <!-- Add more items as needed -->
+  </ul>
 </div>
+
+
 
