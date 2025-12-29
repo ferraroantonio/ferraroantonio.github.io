@@ -21,7 +21,7 @@ layout: default
     <strong>Beyond Consumption: Exploring Productive Borrowing in Household Finance</strong>
     (with Haoyong Zhou), 2025. <span class="meta">Working paper.</span>
     <p style="margin-top:8px;">
-      <a class="btn" href="{{ '/assets/WP_ProductiveBorrowing.pdf' | relative_url }}">PDF</a>
+      <a class="btn" href="{{ '/assets/BeyondConsumption.pdf' | relative_url }}">PDF</a>
     </p>
   </li>
 
@@ -29,7 +29,7 @@ layout: default
     <strong>From Private Wealth to Patient Capital: Single Family Offices in Entrepreneurial Finance</strong>
     (with Emma Li and Haoyong Zhou), 2025. <span class="meta">Working paper.</span>
     <p style="margin-top:8px;">
-      <a class="btn" href="{{ '/assets/WP_SingleFamilyOffices.pdf' | relative_url }}">PDF</a>
+      <a class="btn" href="{{ '/assets/FamilyOffices.pdf' | relative_url }}">PDF</a>
     </p>
   </li>
 
