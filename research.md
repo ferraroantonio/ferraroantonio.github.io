@@ -6,8 +6,8 @@ layout: default
 <section id="jmp" style="margin-top:22px;">
 <h2>Job Market Paper</h2>
 <div class="card">
-<strong>Real Assets, Real Inequality: The Heterogeneous Impact of Inheritance on Wealth Accumulation</strong> (working paper, 2025). 
-<div class="meta">microeconometrics; panel data; wealth distribution; inequality; intergenerational transfers.</div>
+<strong>Inherited Housing, Collateral, and Household Wealth Accumulation</strong> (working paper, 2025). 
+<div class="meta">bequests; household assets; wealth; mortgages; investment decisions.</div>
 <p style="margin-top:10px;">
   <a class="btn" href="{{ '/assets/JMP_Ferraro.pdf' | relative_url }}">PDF</a>
   <a class="btn" href="{{ '/assets/JMP_Ferraro_slides.pdf' | relative_url }}">Slides</a>
@@ -26,7 +26,7 @@ layout: default
   </li>
 
   <li class="item">
-    <strong>From Private Wealth to Patient Capital: Single Family Offices in Entrepreneurial Finance</strong>
+    <strong>From Private Wealth to Patient Capital: Family Offices in Entrepreneurial Finance</strong>
     (with Emma Li and Haoyong Zhou), 2025. <span class="meta">Working paper.</span>
     <p style="margin-top:8px;">
       <a class="btn" href="{{ '/assets/FamilyOffices.pdf' | relative_url }}">PDF</a>
