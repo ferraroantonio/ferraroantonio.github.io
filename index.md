@@ -21,25 +21,6 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
 </div>
 </section>
 
-<section id="talks" style="margin-top:22px;">
-<h2>Talks & Conference Presentations</h2>
-<div class="card">
-<ul class="plain">
-  <li class="item">
-    <strong>Young Economists’ Meeting (YEM)</strong>, Brno, Czech Republic
-    <div class="meta">May 27–29, 2026</div>
-    <div>“Inherited Housing, Collateral, and Household Wealth Accumulation” (scheduled)</div>
-  </li>
-  <li class="item">
-    <strong>HEC Liège Young Researchers Conference in Economics (HYRCE)</strong>, Liège, Belgium
-    <div class="meta">April 16–17, 2026</div>
-    <div>“Inherited Housing, Collateral, and Household Wealth Accumulation” (planned)</div>
-  </li>
-</ul>
-</div>
-</section>
-
-
 <section id="experience" style="margin-top:22px;">
 <h2>Work Experience</h2>
 <div class="card">
