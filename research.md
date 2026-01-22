@@ -10,7 +10,9 @@ layout: default
 <div class="meta">bequests; household assets; wealth; mortgages; investment decisions.</div>
 <p style="margin-top:10px;">
   <a class="btn" href="{{ '/assets/JMP_Ferraro.pdf' | relative_url }}">PDF</a>
-  <a class="btn" href="{{ '/assets/JMP_Ferraro_slides.pdf' | relative_url }}">Slides</a>
+ <!--
+<a class="btn" href="{{ '/assets/JMP_Ferraro_slides.pdf' | relative_url }}">Slides</a>
+-->
 </p>
 </div>
 </section>
