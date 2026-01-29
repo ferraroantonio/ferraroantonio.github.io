@@ -8,7 +8,7 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
 <h2>Overview</h2>
 <div class="card">
 <p>I'm a PhD candidate in Economics and Quantitative Methods at the <em>University of Genoa</em>, expecting to graduate in February 2026. My job market paper examines the effects of asset-specific shocks to households’ wealth and balance sheet composition, using the panel component of the ECB's Household Finance and Consumption Survey (HFCS).</p>
-<p>I am currently on the job market for quantitative roles in research, banking, and financial institutions.</p>
+<p>I am currently on the job market for research roles involving quantitative analysis, econometric modeling, and statistical inference.</p>
 <p>
   <a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a>
   &nbsp; <a class="btn" href="{{ '/contact' | relative_url }}">Email / Contact</a>
