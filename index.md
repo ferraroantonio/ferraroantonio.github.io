@@ -13,7 +13,7 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
   <a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a>
   &nbsp; <a class="btn" href="{{ '/contact' | relative_url }}">Email / Contact</a>
 </p>
-<p class="meta">Research interests: applied microeconomics, public finance, macroeconomics, international economics, household finance, distribution of wealth, and demographic change.</p>
+<p class="meta">Research interests: applied microeconomics, public finance, macroeconomics, household finance, and distribution of wealth.</p>
 <details>
   <summary>JEL codes</summary>
   <p>D31, E, F, G51, H, J11, O5.</p>
@@ -50,7 +50,7 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
   <li class="item"><strong>B.Sc. in International Sciences — University of Turin</strong> <span class="meta">2015 – 2018</span></li>
   <li class="item"><strong>Exchange Program — University of Hamburg</strong> <span class="meta">2017 – 2018</span></li>
   <li class="item"><strong>Selected Summer Schools</strong> <span class="meta">Barcelona School of Economics (Time Series Models, 2024); Italian Econometric Association (Macroeconomic Forecasting & Machine Learning, 2023); Universidad Politécnica de Madrid (Explainable Machine Learning, 2023); University of East Anglia (Empirical Industrial Organization, 2023); University of Zurich (Blockchain, 2020)</span></li>
-  <li class="item"><strong>Languages</strong> <span class="meta">English (proficient), Italian (native), German (fluent), French (intermediate)</span></li>
+  <li class="item"><strong>Languages</strong> <span class="meta">Italian (native), English (proficient), German (fluent), French (intermediate)</span></li>
 </ul>
 </div>
 </section>
