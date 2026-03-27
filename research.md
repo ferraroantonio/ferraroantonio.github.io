@@ -21,7 +21,7 @@ layout: default
 <ul class="plain">
   <li class="item">
     <strong>What Households Borrow For: The Effects of Debt Composition on Business and Income Outcomes</strong>
-    (working paper, 2026). <span class="meta">Working paper.</span>
+    (working paper, 2026). <span class="meta">household finance; borrowing; household assets; investment decisions; mortgages.</span>
     <p style="margin-top:8px;">
       <a class="btn" href="{{ '/assets/BeyondConsumption.pdf' | relative_url }}">PDF</a>
     </p>
