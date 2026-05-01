@@ -14,10 +14,6 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
   &nbsp; <a class="btn" href="{{ '/contact' | relative_url }}">Email / Contact</a>
 </p>
 <p class="meta">Research interests: applied microeconomics, household finance, public economics, and financial intermediation.</p>
-<details>
-  <summary>JEL codes</summary>
-  <p>D31, E, F, G, H, O5.</p>
-</details>
 </div>
 </section>
 
