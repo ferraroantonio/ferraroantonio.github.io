@@ -6,7 +6,7 @@ layout: default
 <section id="jmp" style="margin-top:22px;">
 <h2>Job Market Paper</h2>
 <div class="card">
-<strong>Inherited Housing, Collateral, and Household Wealth Accumulation</strong> (working paper, 2026). 
+<strong>Inherited Housing and Household Investment: Evidence from Germany and Spain</strong> (working paper, 2026). 
 <div class="meta">bequests; household assets; wealth; mortgages; investment decisions.</div>
 <p style="margin-top:10px;">
   <a class="btn" href="{{ '/assets/JMP_Ferraro.pdf' | relative_url }}">PDF</a>
