@@ -13,7 +13,7 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
   <a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a>
   &nbsp; <a class="btn" href="{{ '/contact' | relative_url }}">Email / Contact</a>
 </p>
-<p class="meta">Research interests: applied microeconomics, household finance, public economics, and financial intermediation.</p>
+<p class="meta">Research interests: applied microeconomics, household finance, public economics, and wealth distribution.</p>
 </div>
 </section>
 
