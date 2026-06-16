@@ -41,7 +41,7 @@ description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Meth
 <h2>Education</h2>
 <div class="card">
 <ul class="plain">
-  <li class="item"><strong>Ph.D. in Economics and Quantitative Methods — University of Genoa</strong> <span class="meta">2023 – present</span></li>
+  <li class="item"><strong>Ph.D. in Economics and Quantitative Methods — University of Genoa</strong> <span class="meta">2023 – 2026</span></li>
   <li class="item"><strong>M.Sc. in Economics and Political Science — University of Milan</strong> <span class="meta">2018 – 2021</span></li>
   <li class="item"><strong>B.Sc. in International Science — University of Turin</strong> <span class="meta">2015 – 2018</span></li>
   <li class="item"><strong>Exchange Program — University of Hamburg</strong> <span class="meta">2017 – 2018</span></li>
