@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-description: "Antonio Ferraro – PhD in Economics & Quantitative Methods."
+description: "Antonio Ferraro — PhD in Economics and Quantitative Methods. Applied microeconomics, household finance, and quantitative analysis."
 ---
 
 <section id="about">
