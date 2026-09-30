@@ -22,15 +22,15 @@ description: "Antonio Ferraro – PhD in Economics and Quantitative Methods. App
 <div class="card">
 <ul class="plain">
   <li class="item">
-    <strong>Visiting Researcher — Zhejiang International Studies University (Hangzhou, China)</strong>
+    <strong>Visiting Researcher – Zhejiang International Studies University (Hangzhou, China)</strong>
     <div class="meta">Sep 2024 – Jul 2025</div>
   </li>
   <li class="item">
-    <strong>Mutual Funds Analyst — Infosys BPM (Dublin, Ireland)</strong>
+    <strong>Mutual Funds Analyst – Infosys BPM (Dublin, Ireland)</strong>
     <div class="meta">Jul 2022 – Dec 2022</div>
   </li>
   <li class="item">
-    <strong>Application Development Analyst — Accenture Technology (Rome, Italy)</strong>
+    <strong>Application Development Analyst – Accenture Technology (Rome, Italy)</strong>
     <div class="meta">Dec 2021 – Jun 2022</div>
   </li>
 </ul>
@@ -41,10 +41,10 @@ description: "Antonio Ferraro – PhD in Economics and Quantitative Methods. App
 <h2>Education</h2>
 <div class="card">
 <ul class="plain">
-  <li class="item"><strong>Ph.D. in Economics and Quantitative Methods — University of Genoa</strong> <span class="meta">Feb 2023 – Jun 2026</span></li>
-  <li class="item"><strong>M.Sc. in Economics and Political Science — University of Milan</strong> <span class="meta">Dec 2018 – Mar 2021</span></li>
-  <li class="item"><strong>B.Sc. in International Science — University of Turin</strong> <span class="meta"> Sep 2015 – Nov 2018</span></li>
-  <li class="item"><strong>Exchange Program — University of Hamburg</strong> <span class="meta"> Oct 2017 – Mar 2018</span></li>
+  <li class="item"><strong>Ph.D. in Economics and Quantitative Methods – University of Genoa</strong> <span class="meta">Feb 2023 – Jun 2026</span></li>
+  <li class="item"><strong>M.Sc. in Economics and Political Science – University of Milan</strong> <span class="meta">Dec 2018 – Mar 2021</span></li>
+  <li class="item"><strong>B.Sc. in International Science – University of Turin</strong> <span class="meta"> Sep 2015 – Nov 2018</span></li>
+  <li class="item"><strong>Exchange Program – University of Hamburg</strong> <span class="meta"> Oct 2017 – Mar 2018</span></li>
   <li class="item"><strong>Additional Training</strong> <span class="meta">Barcelona School of Economics (Time Series Models, Jun 2024); Italian Econometric Association (Macroeconomic Forecasting & Machine Learning, Jul 2023); Universidad Politécnica de Madrid (Explainable Machine Learning, Jun 2023); University of East Anglia (Empirical Industrial Organization, Feb–Mar 2023); University of Zurich (Blockchain, Jul 2020)</span></li>
   <li class="item"><strong>Languages</strong> <span class="meta">Italian (native), English (fluent), German (proficient), French (intermediate)</span></li>
 </ul>
