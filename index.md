@@ -1,7 +1,7 @@
 ---
 title: About
 layout: default
-description: "Antonio Ferraro — PhD Candidate in Economics & Quantitative Methods (University of Genoa). Household finance, distribution of wealth, macroeconomics, international economics, public finance, demographics, IO, development."
+description: "Antonio Ferraro – PhD in Economics & Quantitative Methods."
 ---
 
 <section id="about">
