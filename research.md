@@ -19,17 +19,10 @@ layout: default
 <h2 style="margin-top:20px;">Working papers</h2>
 <div class="card">
 <ul class="plain">
-  <li class="item">
-    <strong>What Households Borrow For: The Effects of Debt Composition on Business and Income Outcomes</strong>
-    (working paper, 2026). <span class="meta">household finance; borrowing; household assets; investment decisions; mortgages.</span>
-    <p style="margin-top:8px;">
-      <a class="btn" href="{{ '/assets/BeyondConsumption.pdf' | relative_url }}">PDF</a>
-    </p>
-  </li>
 
   <li class="item">
     <strong>From Private Wealth to Patient Capital: Family Offices in Entrepreneurial Finance</strong>
-    (with Emma Li and Haoyong Zhou), 2026. <span class="meta">Working paper.</span>
+    (with Emma Li and Haoyong Zhou), 2026.
     <p style="margin-top:8px;">
       <a class="btn" href="{{ '/assets/FamilyOffices.pdf' | relative_url }}">PDF</a>
     </p>
