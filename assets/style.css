@@ -79,4 +79,31 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
   }
 }
 
+/* Homepage actions */
+.overview-actions {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 12px;
+}
 
+.btn-secondary {
+  background: transparent;
+  color: #1456d1;
+}
+
+.btn-secondary:hover {
+  background: #eef4ff;
+  text-decoration: none;
+}
+
+@media (prefers-color-scheme: dark) {
+  .btn-secondary {
+    color: #7aa2ff;
+    border-color: #7aa2ff;
+  }
+
+  .btn-secondary:hover {
+    background: #182439;
+  }
+}
