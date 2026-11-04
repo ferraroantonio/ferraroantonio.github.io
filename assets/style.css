@@ -107,3 +107,11 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
     background: #182439;
   }
 }
+
+/* Keep content away from the edges on smaller screens */
+@media (max-width: 720px) {
+  .wrap.content {
+    padding-left: 20px;
+    padding-right: 20px;
+  }
+}
