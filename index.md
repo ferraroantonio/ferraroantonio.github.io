@@ -7,8 +7,9 @@ description: "Antonio Ferraro – Ph.D. in Economics and Quantitative Methods. A
 <section id="about">
 <h2>Overview</h2>
 <div class="card">
-<p>I'm a Ph.D. in Economics and Quantitative Methods with experience in applied econometrics, financial data analysis, and large-scale data processing. My job market paper examines how households respond to real estate inheritance in different housing-market contexts, using the panel component of the ECB's Household Finance and Consumption Survey (HFCS).</p>
-<p>I am currently on the job market for roles involving quantitative analysis, econometric modeling, and statistical inference.</p>
+<p>I am an economist with a PhD in Economics and Quantitative Methods from the University of Genoa. My experience spans applied economic research, financial data analysis and large-scale data processing across academia, financial services and technology.</p>
+<p>In December 2026, I will join Crisil Integral IQ in Wrocław as a Research Analyst, supporting an investment bank’s economics team.</p>
+<p>My research focuses on household finance and investment decisions. My doctoral work examined how housing inheritance shapes household investment and how family offices participate in entrepreneurial finance.</p>
 <p class="overview-actions">
   <a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a>
   <a class="btn btn-secondary" href="{{ '/contact' | relative_url }}">Contact</a>
