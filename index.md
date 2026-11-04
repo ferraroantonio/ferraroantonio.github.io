@@ -22,6 +22,10 @@ description: "Antonio Ferraro – Ph.D. in Economics and Quantitative Methods. A
 <div class="card">
 <ul class="plain">
   <li class="item">
+    <strong>Research Analyst – Crisil Integral IQ (Wrocław, Poland)</strong>
+    <div class="meta">Dec 2026 – Present</div>
+  </li>
+  <li class="item">
     <strong>Visiting Researcher – Zhejiang International Studies University (Hangzhou, China)</strong>
     <div class="meta">Sep 2024 – Jul 2025</div>
   </li>
