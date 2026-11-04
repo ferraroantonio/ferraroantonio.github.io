@@ -124,24 +124,7 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
   text-underline-offset: 6px;
 }
 
-.subtitle .role {
-  color: #0a0a0a;
-  font-weight: 600;
-}
 
-.subtitle .qualification {
-  color: #6b7280;
-}
-
-@media (prefers-color-scheme: dark) {
-  .subtitle .role {
-    color: #e5e7eb;
-  }
-
-  .subtitle .qualification {
-    color: #9aa6b2;
-  }
-}
 
 
 
