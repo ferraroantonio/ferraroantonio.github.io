@@ -54,7 +54,6 @@ description: "Antonio Ferraro – Ph.D. in Economics and Quantitative Methods. A
   <li class="item"><strong>Exchange Program – University of Hamburg</strong>
   <div class="meta"> Oct 2017 – Mar 2018</div></li>
 
-  <li class="item"><strong>Languages</strong> <span class="meta">Italian (native), English (fluent), German (proficient), French (intermediate)</span></li>
 </ul>
 </div>
 </section>
