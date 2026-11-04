@@ -115,3 +115,11 @@ footer.footer{border-top:1px solid var(--border);padding:22px 0 40px;color:var(-
     padding-right: 20px;
   }
 }
+
+/* Indicate the current page */
+.nav a[aria-current="page"] {
+  font-weight: 700;
+  text-decoration: underline;
+  text-decoration-thickness: 2px;
+  text-underline-offset: 6px;
+}
