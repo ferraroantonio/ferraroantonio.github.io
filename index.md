@@ -9,9 +9,10 @@ description: "Antonio Ferraro – Ph.D. in Economics and Quantitative Methods. A
 <div class="card">
 <p>I'm a Ph.D. in Economics and Quantitative Methods with experience in applied econometrics, financial data analysis, and large-scale data processing. My job market paper examines how households respond to real estate inheritance in different housing-market contexts, using the panel component of the ECB's Household Finance and Consumption Survey (HFCS).</p>
 <p>I am currently on the job market for roles involving quantitative analysis, econometric modeling, and statistical inference.</p>
-<p>
+<p class="overview-actions">
   <a class="btn" href="{{ '/assets/CV_Ferraro.pdf' | relative_url }}" download>Download CV (PDF)</a>
-  &nbsp; <a class="btn" href="{{ '/contact' | relative_url }}">Email / Contact</a>
+  <a class="btn btn-secondary" href="{{ '/contact' | relative_url }}">Contact</a>
+  <a href="{{ '/research' | relative_url }}">View research →</a>
 </p>
 <p class="meta">Research interests: applied microeconomics, household finance, public economics, and financial intermediation.</p>
 </div>
