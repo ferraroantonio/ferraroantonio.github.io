@@ -46,13 +46,13 @@ description: "Antonio Ferraro – Ph.D. in Economics and Quantitative Methods. A
 <div class="card">
 <ul class="plain">
   <li class="item"><strong>Ph.D. in Economics and Quantitative Methods – University of Genoa</strong>
-  <span class="meta">Feb 2023 – Jun 2026</span></li>
+  <div class="meta">Feb 2023 – Jun 2026</div></li>
   <li class="item"><strong>M.Sc. in Economics and Political Science – University of Milan</strong>
-  <span class="meta">Dec 2018 – Mar 2021</span></li>
+  <div class="meta">Dec 2018 – Mar 2021</div></li>
   <li class="item"><strong>B.Sc. in International Science – University of Turin</strong>
-  <span class="meta"> Sep 2015 – Nov 2018</span></li>
+  <div class="meta"> Sep 2015 – Nov 2018</div></li>
   <li class="item"><strong>Exchange Program – University of Hamburg</strong>
-  <span class="meta"> Oct 2017 – Mar 2018</span></li>
+  <div class="meta"> Oct 2017 – Mar 2018</div></li>
 
   <li class="item"><strong>Languages</strong> <span class="meta">Italian (native), English (fluent), German (proficient), French (intermediate)</span></li>
 </ul>
